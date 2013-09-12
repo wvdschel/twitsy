@@ -1,0 +1,15 @@
+Version 1.0.5 - 30-06-2010
+- Added support for devices with a screen too small to display an entire tweet
+
+Version 1.0.4 - 01/07/2009
+- Added data reset feature
+
+Version 1.0.3 - 16/06/2009
+- Added check for updates feature
+- Added context sensitive coloring of status bar
+
+Version 1.0.2 - 16/06/2009
+- Fixed a few UI unpleasantries
+
+Version 1.0.1 - 16/06/2009
+- Fixed a few Twitpocalypse bugs

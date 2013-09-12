@@ -1,0 +1,7 @@
+- Back button
+- Retweets
+- Direct messages
+- Twitpic
+- words longer than one line, URLs
+- Open URL
+- OAuth
